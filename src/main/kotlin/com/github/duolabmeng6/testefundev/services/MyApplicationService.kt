@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.duolabmeng6.testefundev.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.duolabmeng6.testefundev.MyBundle
 
 class MyApplicationService {
 
